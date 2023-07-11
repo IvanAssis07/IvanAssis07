@@ -14,10 +14,8 @@ I'm graduating student in computer science at UFMG and a software developer.
 ## Reach me
 
 <div>
-  <a href="https://www.linkedin.com/in/ivan-assis" target="blank">
+  <a href="https://www.linkedin.com/in/ivan-assis" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>&nbsp;
   </a>
 </div>
-
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ivan-assis)
 
