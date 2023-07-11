@@ -2,7 +2,7 @@
 
 I'm graduating student in computer science at UFMG and a software developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanAssis07&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanAssis07&show_icons=true&theme=gotham)](https://github.com/IvanAssis07)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAssis07&layout=compact&theme=gotham)
 
 ## Languages 
