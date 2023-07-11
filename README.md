@@ -2,12 +2,11 @@
 
 I'm a graduating student in computer science at UFMG and a software developer.
 
-<a href="https://github.com/IvanAssis07">
-  <img align="center" height=200  src="https://github-readme-stats.vercel.app/api?username=IvanAssis07&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAssis07&layout=compact&theme=gotham" />
-</a>
+<div align="left">
+  <a href="https://github.com/IvanAssis07">
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=IvanAssis07&show_icons=true&theme=gotham" />
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAssis07&layout=compact&theme=gotham" />
+</div>
 
 ## Languages 
 
