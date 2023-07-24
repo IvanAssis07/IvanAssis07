@@ -5,7 +5,7 @@ I'm a graduating student in computer science at UFMG and a software developer.
 <div align="center">
   <a href="https://github.com/IvanAssis07">
     <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=IvanAssis07&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAssis07&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&hide=[jupyter%20notebook, MakeFile]/>
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAssis07&layout=compact&langs_count=8&theme=gotham&count_private=true&include_all_commits=true&hide=jupyter%20notebook"/>
 </div>
 
 ## Languages 
